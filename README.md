@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srishti Mishra</h1>
-<h3 align="center">A passionate software developer and soon to be an app developer.</h3>
+<h3 align="center">A passionate software developer and soon to be an android app developer.</h3>
 
 - 🔭 I’m currently working on **React App project**
 
